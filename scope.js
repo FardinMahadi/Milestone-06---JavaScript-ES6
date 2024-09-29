@@ -29,9 +29,17 @@
 // const x = 5;
 // console.log(x);
 
-{
-  var x = 10;
+// {
+//   var x = 10;
+//   console.log(x);
+// }
+
+// console.log(x);
+
+function show() {
+  x = 5;
   console.log(x);
 }
 
+show();
 console.log(x);
